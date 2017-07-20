@@ -1,0 +1,13 @@
+body {
+  text-align:center;
+}
+
+.click {
+  cursor: pointer;
+  color: olive;
+  font-size: 18px;
+}
+
+.click:hover {
+  color: salmon;
+}
